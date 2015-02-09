@@ -1,0 +1,10 @@
+{
+    "environment": "experimentation",
+    "credentials": {
+        "keystone_url": "http://130.206.80.57:4731/v2.0/",
+        "tenant_id": "00000000000000000000000000000129",
+        "tenant_name": "00000000000000000000000000000129",
+        "user": "e.cloud10@tid.es",
+        "password": "f1-cl0ud"
+    }
+}
